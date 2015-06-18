@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-174ae5bea9a640f89c53368cec44749c02ab62c3.jar" />
+    </item>
+    <item
+        jar="/Users/dola/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-f6cf08440ae3b0587450a4d8d4cc28bd454d9d21.jar" />
+    </item>
+    <item
+        jar="/Users/dola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-40843b8aab2f44c3628b0d9a06cc56463dc54f07.jar" />
+    </item>
+    <item
+        jar="/Users/dola/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-531c32b943837e75e85ef53dc387e1c1a8554e84.jar" />
+    </item>
+    <item
+        jar="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/classes-64a8c101ea105ade398cb53a58df2bf28439bab2.jar" />
+    </item>
+    <item
+        jar="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/dola/AndroidStudioProjects/BookSearch/app/build/intermediates/pre-dexed/debug/classes-96d6807972b8e25fb62fbdf507be0b7959b569bf.jar" />
+    </item>
+
+</items>
